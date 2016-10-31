@@ -1,7 +1,7 @@
 # Junction
 Allows you to visually explore a dataset containing 1M+ artists and 1M+ albums to discover the connections between them.
 
-![Junction](junction.png "Junction")  
+![Junction](junction-web.png "Junction")  
 
 
 Built using:
